@@ -1,6 +1,6 @@
 # Generative AI Interview Questions
 
-A comprehensive list of 100 interview questions and answers on Generative AI to help you prepare for your next technical interview.
+## A comprehensive list of 100 interview questions and answers on Generative AI to help you prepare for your next technical interview.
 
 ![AI Engineer](Images/AI%20Engineer.png)
 
